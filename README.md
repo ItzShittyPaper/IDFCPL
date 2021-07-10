@@ -8,23 +8,26 @@ If you want to steal it for your purposes, do it. Maybe i will see it and give y
 ## If something doesn't work, post it in issues and nothing else.
 I don't give a fuck about errors in my code, if you saw one, just report it in issues tab. MAYBE i will fix it (if i can)
 
-## Fan-Made Michaelsoft© Binbows™ support is encouraged and appreciated.
-But.
+## If you are a big corporation. Stop using my code:
 
-I
+- Microsoft
+- Google
+- Apple
+- Amazon
+- Netflix
+- Spotify
+- Windows Users
+- Huawei
+- Xiaomi
+- Sony
+- Facebook
+- many others
 
-Won't
+If you really want to use it, make it free software.
 
-Support
+## Dont sell the software under this license
 
-It
-
-(probably).
-
-## Hello
-Darkness my old friend
-
-## Never gonna
-Give you up
+Selling copies of a program is crime. i hate it. and then every soyslave pirates your stuff.
+And i think i would pirate it too. and decompile it. and release the source code online.
 
 # DI ENT
