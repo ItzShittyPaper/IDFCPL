@@ -8,22 +8,11 @@ If you want to steal it for your purposes, do it. Maybe i will see it and give y
 ## If something doesn't work, post it in issues and nothing else.
 I don't give a fuck about errors in my code, if you saw one, just report it in issues tab. MAYBE i will fix it (if i can)
 
-## If you are a big corporation. Stop using my code:
-
-- Microsoft
-- Google
-- Apple
-- Amazon
-- Netflix
-- Spotify
-- Windows Users
-- Huawei
-- Xiaomi
-- Sony
-- Facebook
-- many others
-
+## If you want to sell a product as a company. Stop using my code
 If you really want to use it, make it free software.
+
+## "Github, don't deepfake my code!"
+I strictly prohibiting using code with - for example - github copilot. It destroys jobs, steals code and does many other unethical things.
 
 ## Dont sell the software under this license
 
