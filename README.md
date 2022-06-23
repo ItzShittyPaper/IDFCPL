@@ -15,8 +15,7 @@ If you really want to use it, make it free software (plez).
 I strictly prohibiting using code with - for example - github copilot. It destroys jobs, steals code and does many other unethical things.
 
 ## Dont sell the software under this license
-
-Selling copies of a program is crime. i hate it. and then every soyslave pirates your stuff.
+Selling copies of a piece of software under this license is literal crime. Besides every soyjack that lives with his mom will pirate your stuff.
 And i think i would pirate it too. and decompile it. and release the source code online.
 
 -------------------------
